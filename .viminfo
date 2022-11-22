@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1669126856,,"wq"
+|2,0,1669127230,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,66 @@
 # Registers:
 
 # File marks:
-'0  1  12  ~/file4.txt
-|4,48,1,12,1669126856,"~/file4.txt"
-'1  1  19  ~/file3.txt
-|4,49,1,19,1669126805,"~/file3.txt"
-'2  1  15  ~/workspace/file2.txt
-|4,50,1,15,1669126028,"~/workspace/file2.txt"
-'3  1  12  ~/workspace/file1.txt
-|4,51,1,12,1669125994,"~/workspace/file1.txt"
-'4  1  2  ~/file2.txt
-|4,52,1,2,1669125735,"~/file2.txt"
-'5  1  4  ~/file1.txt
-|4,53,1,4,1669125714,"~/file1.txt"
+'0  1  18  ~/file4.txt
+|4,48,1,18,1669127230,"~/file4.txt"
+'1  1  9  ~/file3.txt
+|4,49,1,9,1669127215,"~/file3.txt"
+'2  1  12  ~/file4.txt
+|4,50,1,12,1669126856,"~/file4.txt"
+'3  1  19  ~/file3.txt
+|4,51,1,19,1669126805,"~/file3.txt"
+'4  1  15  ~/workspace/file2.txt
+|4,52,1,15,1669126028,"~/workspace/file2.txt"
+'5  1  12  ~/workspace/file1.txt
+|4,53,1,12,1669125994,"~/workspace/file1.txt"
+'6  1  2  ~/file2.txt
+|4,54,1,2,1669125735,"~/file2.txt"
+'7  1  4  ~/file1.txt
+|4,55,1,4,1669125714,"~/file1.txt"
 
 # Jumplist (newest first):
+-'  1  18  ~/file4.txt
+|4,39,1,18,1669127230,"~/file4.txt"
+-'  1  9  ~/file3.txt
+|4,39,1,9,1669127215,"~/file3.txt"
+-'  1  9  ~/file3.txt
+|4,39,1,9,1669127215,"~/file3.txt"
+-'  1  12  ~/file4.txt
+|4,39,1,12,1669126856,"~/file4.txt"
 -'  1  12  ~/file4.txt
 |4,39,1,12,1669126856,"~/file4.txt"
 -'  1  19  ~/file3.txt
 |4,39,1,19,1669126805,"~/file3.txt"
 -'  1  19  ~/file3.txt
 |4,39,1,19,1669126805,"~/file3.txt"
+-'  1  19  ~/file3.txt
+|4,39,1,19,1669126805,"~/file3.txt"
+-'  1  19  ~/file3.txt
+|4,39,1,19,1669126805,"~/file3.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
+-'  1  15  ~/workspace/file2.txt
+|4,39,1,15,1669126028,"~/workspace/file2.txt"
 -'  1  15  ~/workspace/file2.txt
 |4,39,1,15,1669126028,"~/workspace/file2.txt"
 -'  1  15  ~/workspace/file2.txt
@@ -69,6 +109,54 @@
 |4,39,1,12,1669125994,"~/workspace/file1.txt"
 -'  1  12  ~/workspace/file1.txt
 |4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
+-'  1  12  ~/workspace/file1.txt
+|4,39,1,12,1669125994,"~/workspace/file1.txt"
 -'  1  2  ~/file2.txt
 |4,39,1,2,1669125735,"~/file2.txt"
 -'  1  2  ~/file2.txt
@@ -101,86 +189,76 @@
 |4,39,1,2,1669125735,"~/file2.txt"
 -'  1  2  ~/file2.txt
 |4,39,1,2,1669125735,"~/file2.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
--'  1  4  ~/file1.txt
-|4,39,1,4,1669125714,"~/file1.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
+-'  1  2  ~/file2.txt
+|4,39,1,2,1669125735,"~/file2.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/file4.txt
-	*	1669126855	0
-	"	1	12
-	^	1	13
-	.	1	12
-	+	1	12
+	*	1669127229	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/file3.txt
-	*	1669126804	0
-	"	1	19
-	^	1	20
-	.	1	19
-	+	1	19
+	*	1669127213	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/workspace/file2.txt
 	*	1669126026	0
